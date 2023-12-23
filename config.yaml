@@ -1,0 +1,32 @@
+cookie:
+  expiry_days: 0
+  key: abccba123
+  name: test_cook
+credentials:
+  usernames:
+    ADMIN:
+      name: HARSHA
+      password: $2b$12$caIkG/jz1IKrcgXjX1ypBe8wK8mIfGHOFwx7LjBwDHHuScNndu5Xa
+    CUST1:
+      accountno: ACC2
+      email: akshay@gmail.com
+      name: Akshay P
+      password: $2b$12$B96C92wcGuuUrKatVVKCvOWluiPpcZFUCs.SKax.R8bk3ENYXI4/K
+    TOMMY:
+      address: 985 Service Road, RPC Layout, Attiguppe
+      name: Ananth Kashyap
+      password: $2b$12$TYoogEcH9ylS0Fk/1hUjfu47ptfi./gMdUkfABG4eVa3w2RAJAYj2
+      phone number: '+919880594476'
+    TOMMY1:
+      address: 985 Service Road, RPC Layout, Attiguppe
+      name: Ananth Kashyap
+      password: $2b$12$ElJovuNdVwLVIX3cH1YSu.1nCfQVSwF/.EIEmDI.pO3s.tr0/g29e
+      phone number: '+919880594476'
+    guru1968:
+      address: 985 Service Road, RPC Layout, Attiguppe
+      name: Guru
+      password: $2b$12$XxgCJ8WaIXEAiNGL66ZxOOXWKJbYopRoAyInl.SWnyYrkftfRiaRi
+      phone number: '+919880594836'
+preauthorized:
+  emails:
+  - bankname@gmail.com
